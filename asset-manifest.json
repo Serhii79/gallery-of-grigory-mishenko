@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/gallery-of-grigory-mishenko/static/js/main.9369afa9.chunk.js",
-    "main.js.map": "/gallery-of-grigory-mishenko/static/js/main.9369afa9.chunk.js.map",
+    "main.js": "/gallery-of-grigory-mishenko/static/js/main.3418c4b6.chunk.js",
+    "main.js.map": "/gallery-of-grigory-mishenko/static/js/main.3418c4b6.chunk.js.map",
     "runtime-main.js": "/gallery-of-grigory-mishenko/static/js/runtime-main.521b3622.js",
     "runtime-main.js.map": "/gallery-of-grigory-mishenko/static/js/runtime-main.521b3622.js.map",
-    "static/js/2.e27f9bec.chunk.js": "/gallery-of-grigory-mishenko/static/js/2.e27f9bec.chunk.js",
-    "static/js/2.e27f9bec.chunk.js.map": "/gallery-of-grigory-mishenko/static/js/2.e27f9bec.chunk.js.map",
+    "static/js/2.68f0b4c6.chunk.js": "/gallery-of-grigory-mishenko/static/js/2.68f0b4c6.chunk.js",
+    "static/js/2.68f0b4c6.chunk.js.map": "/gallery-of-grigory-mishenko/static/js/2.68f0b4c6.chunk.js.map",
     "index.html": "/gallery-of-grigory-mishenko/index.html",
-    "static/js/2.e27f9bec.chunk.js.LICENSE.txt": "/gallery-of-grigory-mishenko/static/js/2.e27f9bec.chunk.js.LICENSE.txt"
+    "static/js/2.68f0b4c6.chunk.js.LICENSE.txt": "/gallery-of-grigory-mishenko/static/js/2.68f0b4c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.521b3622.js",
-    "static/js/2.e27f9bec.chunk.js",
-    "static/js/main.9369afa9.chunk.js"
+    "static/js/2.68f0b4c6.chunk.js",
+    "static/js/main.3418c4b6.chunk.js"
   ]
 }
